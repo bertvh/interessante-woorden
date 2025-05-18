@@ -4,3 +4,9 @@
 * Spreekbeurt (telefoonseks)
 * Steekspel (vrijpartij)
 * Gewijzigde verkeersituatie (verandering van lief)
+* Vogelbeschreming
+* Staving
+* Volwaardig
+* Gebeurtenis
+* Nootkreet
+* Voorkant
